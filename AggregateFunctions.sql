@@ -1,4 +1,4 @@
-# DATACAMP - INTRODUCTION TO SQL | CHAPTER 1 AGGREGATE FUNCTIONS
+# DATACAMP - INTRODUCTION TO SQL | CHAPTER 3 AGGREGATE FUNCTIONS
 
 -- Aggregate functions
 -- Use the SUM() function to get the total duration of all films.
